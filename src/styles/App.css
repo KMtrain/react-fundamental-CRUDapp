@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: box;
+}
+
+#root {
+    display: flex;
+
+}
+
+.App {
+    width: 800px;
+}
+
+.post {
+    display: true;
+    padding: 15px;
+    border: 22px red;
+    border-radius: 0ch;
+    border-color: red;
+   
+}
+
+#counter1 {
+    background-color: #4CAF50;
+}
+
